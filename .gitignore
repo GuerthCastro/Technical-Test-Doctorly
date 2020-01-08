@@ -1,0 +1,16 @@
+/TestResults
+/.vs/INNOCV-IT.CodeTest.REST/v15/.suo
+/.vs/INNOCV-IT.CodeTest.REST
+/INNOCV-IT.CodeTest.Provider/bin/Debug/netcoreapp2.2
+/INNOCV-IT.CodeTest.Provider/obj
+/INNOCV-IT.CodeTest.Repository/bin/Debug/netcoreapp2.2
+/INNOCV-IT.CodeTest.Repository/obj
+/INNOCV-IT.CodeTest.REST/bin/Debug/netcoreapp2.2
+/INNOCV-IT.CodeTest.REST/Logs/Error
+/INNOCV-IT.CodeTest.REST/obj
+/INNOCV-IT.CodeTest.Test/bin/Debug/netcoreapp2.2
+/INNOCV-IT.CodeTest.Test/obj
+/lib
+bin
+obj
+/.vs/Doctorly.CodeTest.REST/v15
